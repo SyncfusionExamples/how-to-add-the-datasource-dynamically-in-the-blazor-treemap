@@ -1,4 +1,4 @@
-# Example of adding the data source dynamically in the Syncfusion Blazor TreeMap component
-In this Blazor project, we created a sample to demonstrate how to add the data source dynamically in the Blazor HeatMap.
+# Example of changing the data source dynamically in the Syncfusion Blazor TreeMap component
+In this Blazor project, we created a sample to demonstrate how to change the data source dynamically in the Blazor HeatMap.
 
 In this sample project, we can declare the two variables with separate data sources as an **ObservableCollection** data type instead of a **List** data type. The **Show List 1** and **Show List 2** buttons are available to change the data source dynamically by using the [DataSource](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.TreeMap.SfTreeMap-1.html#Syncfusion_Blazor_TreeMap_SfTreeMap_1_DataSource) property in the TreeMap component. The TreeMap will automatically refresh and render based on the updated data source.
